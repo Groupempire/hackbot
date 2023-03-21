@@ -6,4 +6,10 @@ required packages
 
 #pip import session
 
-
+   how to run flask app
+   
+   
+  in terminal:
+  python app.py
+  
+  
