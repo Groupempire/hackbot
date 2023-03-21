@@ -122,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true);
 
         WebView webView = (WebView) findViewById(R.id.web_view);
-        webView.loadUrl("http://hpnews.ml");
+        webView.loadUrl("https://hackbot.pythonanywhere.com/");
 //we als addded the back graffic button
         ImageButton backButton = (ImageButton) findViewById(R.id.back_button);
         backButton.setOnClickListener(new View.OnClickListener() {
